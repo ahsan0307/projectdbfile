@@ -1,0 +1,36 @@
+     {
+       "results": [
+     { 
+        rollNumber: 101,
+        class : '9th',
+        name : 'Ahmad',
+        marks: 950/960,
+        position: '1st',
+        Remarks: 'Extraordinary student! Good in studies and sprots '
+        },
+     { 
+        rollNumber: 102,
+        class : '9th',
+        name : 'Ali',
+        marks: 945/960,
+        position: '2nd',
+        Remarks: 'Extraordinary student! Good in studies and sprots '
+       },
+      {
+        rollNumber: 103,
+        class : '9th',
+        name : 'Amjad',
+        marks: 940/960,
+        position: '3rd',
+        Remarks: 'Extraordinary student! Good in studies and sprots '
+       },
+       {
+        rollNumber: 104,
+        class : '9th',
+        name : 'Adeel',
+        marks: 939/960,
+        position: '4th',
+        Remarks: 'Extraordinary student! Good in studies and sprots '
+       }
+      ]
+    }
